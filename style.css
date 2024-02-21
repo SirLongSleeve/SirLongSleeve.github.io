@@ -12,3 +12,11 @@ html, body, canvas {
 	touch-action-delay: none;
 }
 
+<<<<<<< HEAD
+=======
+@font-face {
+	font-family: 'OpenSans-ExtraBold';
+	src: url('fonts/opensans-extrabold.ttf') format('truetype');
+}
+
+>>>>>>> c32fe19de647fc5297ebb989dbf9a5b726216977
